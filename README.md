@@ -113,7 +113,6 @@ lang    : Arabic (native) · English (professional)
 
 ### `$ watch git log --oneline`
 
-> ⚙️ *Snake animates after the GitHub Action runs — see setup below*
 
 <div align="center">
 
