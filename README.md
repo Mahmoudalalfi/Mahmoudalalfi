@@ -88,13 +88,12 @@ lang    : Arabic (native) · English (professional)
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoudalalfi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8602a&icon_color=4a7c59&text_color=c9d1d9&rank_icon=github)](https://github.com/Mahmoudalalfi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudalalfi&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8602a&text_color=c9d1d9&langs_count=8)](https://github.com/Mahmoudalalfi)
+<a href="https://github.com/Mahmoudalalfi">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahmoudalalfi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8602a&icon_color=4a7c59&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahmoudalalfi&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8602a&text_color=c9d1d9&langs_count=8"/>
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoudalalfi&hide_border=true&background=0d1117&stroke=4a7c59&ring=c8602a&fire=c8602a&currStreakLabel=c8602a&sideLabels=9dba8e&dates=555e58&sideNums=f0ead6&currStreakNum=f0ead6)](https://github.com/Mahmoudalalfi)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudalalfi&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10)](https://github.com/Mahmoudalalfi)
 
 </div>
 
@@ -113,6 +112,8 @@ lang    : Arabic (native) · English (professional)
 ---
 
 ### `$ watch git log --oneline`
+
+> ⚙️ *Snake animates after the GitHub Action runs — see setup below*
 
 <div align="center">
 
