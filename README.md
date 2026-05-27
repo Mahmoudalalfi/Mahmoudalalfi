@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2d4a3e,100:c8602a&height=200&section=header&text=Mahmoud%20Ashraf%20Alalfi&fontSize=36&fontColor=f0ead6&fontAlignY=40&desc=Security%20Researcher%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Bug%20Bounty%20Hunter&descAlignY=62&descColor=9dba8e" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2d4a3e,100:c8602a&height=200&section=header&text=Mahmoud%20Ashraf%20Alalfi&fontSize=36&fontColor=f0ead6&fontAlignY=40&desc=Security%20Researcher%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Bug%20Bounty%20Hunter&descAlignY=62&descColor=9dba8e)
 
-<a href="https://github.com/Mahmoudalalfi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C8602A&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+security+researcher;%24+nmap+-sV+aufsteigtechnik.de+%E2%9C%94+deployed;%24+cat+%2Fetc%2Fbounties+%7C+grep+CRITICAL;%24+sudo+find+%2F+-name+'*.vuln';%24+ping+3+live+client+sites+%E2%9C%94;%24+uptime+%E2%80%94+AWS+certified+%7C+Red+Hat+sysadmin" alt="Typing SVG"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C8602A&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+security+researcher;%24+cat+%2Fetc%2Fbounties+%7C+grep+CRITICAL;%24+ping+aufsteigtechnik.de+%E2%9C%94+deployed;%24+sudo+find+%2F+-name+'*.vuln';%24+uptime+%E2%80%94+3+live+client+sites;%24+uname+-a+%E2%80%94+AWS+certified)](https://github.com/Mahmoudalalfi)
 
-<br/><br/>
+<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mahmoudalalfi&color=4a7c59&style=flat-square&label=recon+hits)
 &nbsp;
@@ -19,8 +17,6 @@
 </div>
 
 ---
-
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Mahmoudalalfi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8602a&icon_color=4a7c59&text_color=c9d1d9"/>
 
 ### `$ cat about.txt`
 
@@ -36,8 +32,6 @@ focus:
   - production client deployments
 lang    : Arabic (native) · English (professional)
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -94,13 +88,13 @@ lang    : Arabic (native) · English (professional)
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudalalfi&hide_border=true&background=0d1117&stroke=4a7c59&ring=c8602a&fire=c8602a&currStreakLabel=c8602a&sideLabels=9dba8e&dates=555e58&sideNums=f0ead6&currStreakNum=f0ead6" width="54%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudalalfi&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8602a&text_color=c9d1d9&langs_count=6" width="38%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoudalalfi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8602a&icon_color=4a7c59&text_color=c9d1d9&rank_icon=github)](https://github.com/Mahmoudalalfi)
 
-<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudalalfi&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8602a&text_color=c9d1d9&langs_count=8)](https://github.com/Mahmoudalalfi)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahmoudalalfi&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoudalalfi&hide_border=true&background=0d1117&stroke=4a7c59&ring=c8602a&fire=c8602a&currStreakLabel=c8602a&sideLabels=9dba8e&dates=555e58&sideNums=f0ead6&currStreakNum=f0ead6)](https://github.com/Mahmoudalalfi)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudalalfi&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10)](https://github.com/Mahmoudalalfi)
 
 </div>
 
@@ -121,11 +115,13 @@ lang    : Arabic (native) · English (professional)
 ### `$ watch git log --oneline`
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudalalfi/Mahmoudalalfi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudalalfi/Mahmoudalalfi/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Mahmoudalalfi/Mahmoudalalfi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudalalfi/Mahmoudalalfi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudalalfi/Mahmoudalalfi/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Mahmoudalalfi/Mahmoudalalfi/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
 </div>
 
 ---
@@ -134,6 +130,6 @@ lang    : Arabic (native) · English (professional)
 
 `✉ engmahmoudalalfi@gmail.com` &nbsp;·&nbsp; `🐙 github.com/Mahmoudalalfi` &nbsp;·&nbsp; `🔐 hackerone.com/engmahmoudalalfi` &nbsp;·&nbsp; `💼 linkedin.com/in/mahmoud`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d4a3e,100:c8602a&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d4a3e,100:c8602a&height=100&section=footer)
 
 </div>
