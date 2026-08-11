@@ -23,9 +23,8 @@
 ```yaml
 name    : Mahmoud Ashraf Alalfi
 role    : Cybersecurity Researcher + Full-Stack Dev
-located : Cairo, Egypt  →  clients in Germany
+located : Cairo, Egypt
 study   : B.Sc. Cybersecurity (3rd year · exp. 2027)
-bounty  : HackerOne — engmahmoudalalfi
 focus:
   - offensive security & vuln research
   - web application pentesting
